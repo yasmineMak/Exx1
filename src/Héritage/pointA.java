@@ -1,4 +1,4 @@
-package Héritage;
+package Héritage ;
 
 
 
@@ -12,3 +12,4 @@ public class pointA extends point{
         System.out.println("("+getX()+","+getY()+")");
     }
 }
+//
