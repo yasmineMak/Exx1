@@ -12,4 +12,4 @@ public class pointA extends point{
         System.out.println("("+getX()+","+getY()+")");
     }
 }
-//
+// //
